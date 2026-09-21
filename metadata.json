@@ -1,0 +1,6 @@
+{
+  "name": "Personal Trainer Landing Page",
+  "description": "Site one page premium e minimalista de alta conversão para personal trainer com foco em captação via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
